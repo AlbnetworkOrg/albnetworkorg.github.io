@@ -1,0 +1,44 @@
+---
+layout: default
+class: home
+---
+<header class="Intro">
+  <h1 class="Intro-brand">
+    <object data="img/logo.png">
+      <img src="img/logo.png" alt="AlbNetwork">
+    </object>
+  </h1>
+
+  <div class="animated fadeIn">
+    <div class="Intro-beta">~</div>
+    
+    <h2>Albania Network Organisation.</h2>
+    <p>Nje vend i bashkimit te virtualitetit dhe realitetit tone.</p>
+
+    <div class="Intro-actions">
+      <a href="https://forum.albnetwork.org/" class="Button">Forumi</a>
+      <a href="{{ site.baseurl }}/skuadra/" class="Button">Skuadra</a>
+    </div>
+  </div>
+</header>
+
+<div class="animated fadeUp">
+  
+  {% include actions.html %}
+  
+  <div class="Features">
+
+    <p class="Features-text">
+      Nese keni hasur probleme me anetare te stafit ose ndonje gje ju duket e padrejte?! Mos nguroni te na kontaktoni. Ju sigurojme qe problemi juaj do te shqyrtohet sa me shpejt te jete e mundur!
+    </p>
+
+    <div class="Features-actions">
+      <a href="https://forum.albnetwork.org/t/ankesa" class="Button">Shkruani ankesen tuaj</a>
+    </div>
+  </div>
+
+  {% include team.html %}
+  
+  {% include historia.html %}
+  
+</div>

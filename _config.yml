@@ -1,0 +1,10 @@
+markdown: kramdown
+title: AlbNetwork.org – Nje Rrjet! Nje Komb!
+email: albnetwork.org@gmail.com
+description: "Albnetwork Chat Shqip online per Shqiptar falas"
+baseurl: ""
+url: "https://albnetwork.org"
+twitter_username: albnetworkOrg
+google_analytics_id: UA-
+kramdown:
+  input: GFM

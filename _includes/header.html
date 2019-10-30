@@ -1,0 +1,18 @@
+<header class="Header">
+  <div class="container">
+    <h1 class="Header-brand">
+      <a href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" width="149" height="34">
+      </a>
+    </h1>
+
+    <nav class="Header-nav">
+      {% assign current = page.url | downcase | split: '/' %}
+      <a href="{{ site.baseurl }}" {% if current[1] == 'features' %}class="active"{% endif %}>Kryefaqja</a>
+      <a href="{{ site.baseurl }}/skuadra/">Stafi</a>
+      <a href="{{ site.baseurl }}/story/">Historia e Rrjetit</a>
+      <a href="https://forum.albnetwork.org/">Forumi</a>
+      <a href="{{ site.baseurl }}/rregullorja/">Rregullorja</a>
+    </nav>
+  </div>
+</header>
