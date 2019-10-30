@@ -185,7 +185,7 @@
   margin:0 auto 10px
   background: transparent url('{{ site.baseurl }}/img/al.png') no-repeat;
 }
-.Team-member-it {
+.Team-member-it:hover .overlay {
   display:block;
   margin:0 auto 10px
   background: transparent url('{{ site.baseurl }}/img/it.png') no-repeat;
