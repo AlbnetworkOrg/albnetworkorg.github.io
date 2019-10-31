@@ -180,18 +180,12 @@
   display:block;
   margin:0 auto 10px
 }
-.Team-member h3 img:hover .overlay {
-  display:block;
-  margin:0 auto 10px;
-  background: url('https://albnetwork.org/img/it.png') no-repeat;
-  cursor: pointer;
-}
 .Team-member-al {
   display:block;
   margin:0 auto 10px;
   background: url('img/al.png') no-repeat;
 }
-.Team-member-it:hover .overlay {
+.Team-member-it:hover {
   display:block;
   margin:0 auto 10px;
   background: url('https://albnetwork.org/img/it.png') no-repeat;
