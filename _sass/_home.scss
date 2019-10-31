@@ -176,34 +176,38 @@
   font-weight:400;
   font-size:20px
 }
-.Team-member h3 img {
+.Team-member h3 img:hover .overlay {
+  display:block;
+  margin:0 auto 10px
+}
+.Team-member h3 img:hover .overlay {
   display:block;
   margin:0 auto 10px
 }
 .Team-member-al {
   display:block;
   margin:0 auto 10px
-  background: transparent url('{{ site.baseurl }}/img/al.png') no-repeat;
+  background: transparent url('img/al.png') no-repeat;
 }
 .Team-member-it:hover .overlay {
   display:block;
   margin:0 auto 10px
-  background: transparent url('{{ site.baseurl }}/img/it.png') no-repeat;
+  background: transparent url('img/it.png') no-repeat;
 }
 .Team-member-us {
   display:block;
   margin:0 auto 10px
-  background: transparent url('{{ site.baseurl }}/img/us.png') no-repeat;
+  background: transparent url('img/us.png') no-repeat;
 }
 .Team-member-uk {
   display:block;
   margin:0 auto 10px
-  background: transparent url('{{ site.baseurl }}/img/uk.png') no-repeat;
+  background: transparent url('img/uk.png') no-repeat;
 }
 .Team-member-gr {
   display:block;
   margin:0 auto 10px
-  background: transparent url('{{ site.baseurl }}/img/gr.png') no-repeat;
+  background: transparent url('img/gr.png') no-repeat;
 }
 .Team-member h4 {
   font-weight:400;
