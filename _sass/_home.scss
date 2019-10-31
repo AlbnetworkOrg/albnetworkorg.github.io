@@ -206,16 +206,13 @@
   margin:0 auto 10px
 }
 .Team-member-it h3 img:hove .overlay {
-  /*display:block;
-  margin:0 auto 10px;*/
+  display:block;
+  margin:0 auto 10px;
   position:absolute;
   width: 108px;
   height: 108px;
-  z-index: 100;
   background: transparent url('https://albnetwork.org/img/it.png') no-repeat; 
   border-radius: 50%;
-  -webkit-filter: grayscale(100%); 
-  filter: grayscale(100%);
 }
 .Team-member-al {
   display:block;
