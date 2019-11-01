@@ -180,6 +180,15 @@
   display:block;
   margin:0 auto 10px
 }
+b img:last-child {
+  display: none;  
+}
+b:hover img:last-child {
+  display: block;  
+}
+b:hover img:first-child {
+  display: none;  
+}
 .Team-member-2 {
   width: 108px;
   height: 108px;
