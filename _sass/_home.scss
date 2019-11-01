@@ -180,13 +180,13 @@
   display:block;
   margin:0 auto 10px
 }
-b img:last-child {
+.b img:last-child {
   display: none;  
 }
-b:hover img:last-child {
+.b:hover img:last-child {
   display: block;  
 }
-b:hover img:first-child {
+.b:hover img:first-child {
   display: none;  
 }
 .Team-member-2 {
