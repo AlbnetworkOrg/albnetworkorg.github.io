@@ -250,6 +250,15 @@
 .Team-member {
   width:150px
 }
+.b img:last-child {
+  display: none;  
+}
+.b:hover img:last-child {
+  display: block;  
+}
+.b:hover img:first-child {
+  display: none;  
+}
 }
 .Actions {
   background-image:linear-gradient(to bottom,#eff2f6 0%,rgba(239,242,246,0) 250px);
