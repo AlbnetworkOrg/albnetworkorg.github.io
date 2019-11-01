@@ -180,39 +180,21 @@
   display:block;
   margin:0 auto 10px
 }
-.Team-it{
-  text-align:center;
-  padding:60px 0
-}
-.Team-members-it{
-  margin-bottom:30px
-  }
-.Team-member-it{
-  display:inline-block;
-  width:190px;
-  vertical-align:top
-}
-.Team-member-it h3 {
-  margin:0
-}
-.Team-member-it h3 a{
-  border:0;
-  color:#E41E20;
-  font-weight:400;
-  font-size:20px
-}
-.Team-member-it h3 img {
-  display:block;
-  margin:0 auto 10px
-}
-.Team-member-it h3 img:hover {
-  display:block;
-  margin:0 auto;
-  position:absolute;
+.Team-member-2 {
   width: 108px;
   height: 108px;
-  background: transparent url('https://albnetwork.org/img/it.png') no-repeat; 
-  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+}
+.Team-member-2 .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.Team-member-2:hover .img-top {
+  display: inline;
 }
 .Team-member-al {
   display:block;
