@@ -116,7 +116,7 @@ Ne Vop-list mund te shtohen kandidate per AOp, apo user me kontribute te gjata d
 
 7. SOp duhet te komunikoje ne menyre te vazhdueshme dhe transparente me SOp e tjere lidhur me problematika te dhomes, situata konkrete, shqetesime te userave apo te stafit SOp, para ndermarrjes se iniciativave personale qe mund te rezultojne ne krijimin e debateve dhe perplasjeve me anetare te tjere te stafit. Pritet nga SOp qe te jene mirekuptues dhe te gatshem per te zgjidhur problematikat ekzistuese dhe jo te veprojne ne menyre te njeanshme. Ne rast te paraqitjes se problematikave mes stafit SOp, ata duhet te diskutojne me Founderin, i cili do te jape vleresimin dhe gjykimin final dhe qe duhet te pranohet nga SOp perkates.
 
-8. SOp diskutojne me stafin Oper-Admin ne rast te paraqitjes se nevojes per te bllokuar hyrjen e nje useri ne rrjet, duke argumentuar problemin me logset perkatese dhe shkeljet e kryera. Ne rast te mungeses se Founderit, SOp diskutojne me Adminet apo Root-Admin ne rast te abuzimeve te kryera nga nje Oper, duke shmangur perplasjen mes AOp-Oper, apo SOp-Oper. SOp pasqyrojne te gjithe problematiken me pas tek Founder dhe ne forum, duke ofruar nje pershkrim te plote dhe te qarte te ngjarjes.
+8. SOp diskutojne me stafin Oper-Admin ne rast te paraqitjes se nevojes per te bllokuar hyrjen e nje useri ne rrjet, duke argumentuar problemin me logset perkatese dhe shkeljet e kryera. Ne rast te mungeses se Founderit, SOp diskutojne me Adminet apo Root-Admin ne rast te abuzimeve te kryera nga nje Oper, duke shmangur perplasjen mes AOp-Oper, apo SOp-Oper. SOp pasqyrojne te gjithe problematiken me pas tek Founder dhe ne forum, duke ofruar nje pershkrim te plote dhe te qarte te ngjarjes.Gjithashtu nje SOP nuk mund te heqi nga AOP nje Oper,duke pasur parasysh qe nje oper ka akses ne OperoWerride Gjithashtu ne Operserv qe nuk sjell asnje ndryshim ne privilegjet e nje oper nese i hiqet Aksesi AOP.
 
 <p><a name="Rregullorja#Perdoruesit"></a></p>
 <h1><a href="#Rregullorja#Perdoruesit">Rregullore per Perdoruesit ne AlbNetwork</a></h1>
@@ -133,4 +133,4 @@ Rekrutimi, perdorimi, shtrengimi, ose bindja e nje femije, per te marre pjese ne
 
 Perdorimi i Albnetwork dhe serverave te tij eshte nje *privilegj* dhe jo e *drejte* per kte gje mund te ndalohet ky privilegj ne cdo moment kur administratoret ta shikojne te arsyeshme ne vijm pershembull per sjelljet e pahijshme nder perdoruesit e tjere, te rrjetit e te serverave. Ky sherbim ofrhet nga Admmistratoret, e Ircopet duke vene ne dispozicion disponimin e kohen e tyre. Per me shum kur te jeni ne chat perdorni /rules.
 
-Kjo rregullore eshte rifreskuar nga FALKO Me date 14 Shkurt 2016.
+Kjo rregullore eshte rifreskuar nga Server Me date 29 Shtator 2021.
