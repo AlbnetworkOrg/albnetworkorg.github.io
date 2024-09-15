@@ -133,4 +133,4 @@ Rekrutimi, perdorimi, shtrengimi, ose bindja e nje femije, per te marre pjese ne
 
 Perdorimi i Albnetwork dhe serverave te tij eshte nje *privilegj* dhe jo e *drejte* per kte gje mund te ndalohet ky privilegj ne cdo moment kur administratoret ta shikojne te arsyeshme ne vijm pershembull per sjelljet e pahijshme nder perdoruesit e tjere, te rrjetit e te serverave. Ky sherbim ofrhet nga Admmistratoret, e Ircopet duke vene ne dispozicion disponimin e kohen e tyre. Per me shum kur te jeni ne chat perdorni /rules.
 
-Kjo rregullore eshte rifreskuar nga Server Me date 29 Shtator 2021.
+Kjo rregullore eshte rifreskuar nga Server Me date 15 Shtator 2024.
